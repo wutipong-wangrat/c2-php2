@@ -1,3 +1,3 @@
 <?php
-    echo"My website";
+    echo"Welcome to PHP: Hypertext Preprocessor";
 ?>
